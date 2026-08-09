@@ -1,0 +1,16 @@
+student_id,name,age,gender,city,math_score,science_score,english_score,grade,fees_paid
+1,Arun Kumar,21,Male,Chennai,88,76,90,A,True
+2,Priya Nair,22,Female,Kochi,95,89,92,A+,True
+3,Rahul Sharma,20,Male,Mumbai,72,65,80,B,False
+4,Sneha Iyer,23,Female,Bangalore,60,55,70,C,True
+5,Vikram Das,21,Male,Delhi,45,50,60,D,False
+6,Meera Pillai,22,Female,Thiruvananthapuram,91,88,85,A,True
+7,Arjun Menon,24,Male,Hyderabad,78,82,74,B+,True
+8,Divya Reddy, ,Female,Chennai,55,60,65,C+,False
+9,Kiran Patel,23,Male,Ahmedabad,82,79,88,B+,True
+10,Lakshmi Bai,21,Female,Kochi,98,95,97,A+,True
+11,Suresh Kumar,22,Male,Mumbai,30,40,50,F,False
+12,Ananya Rao,20,Female,Bangalore,85,80,78,A,True
+13,Ravi Shankar,25,Male,Delhi,70,68,75,B,False
+14,Pooja Menon,22,Female,Thiruvananthapuram,88,91,89,A,True
+15,Ajith Thomas,21,Male,Kochi,62,58,72,C+,True
