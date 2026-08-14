@@ -2,3 +2,10 @@ ipykernel
 numpy
 pandas
 requests
+pytesseract
+opencv-python
+pillow
+pdfplumber
+pdf2image
+matplotlib
+seaborn
