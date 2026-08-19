@@ -12,3 +12,4 @@ seaborn
 openai
 genai
 os
+ollama
